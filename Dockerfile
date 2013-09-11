@@ -2,7 +2,7 @@
 #
 # Bootstraps salt into docker container. 
 
-FROM ubuntu
+FROM ubuntu:precise
 
 MAINTAINER Micah Hausler "micah.hausler@akimbo.io"
 
